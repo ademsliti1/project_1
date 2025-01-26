@@ -1,0 +1,64 @@
+.header{
+    background-image:url(aaaph/image-hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+h1{
+    color: white;
+    font-size: 45px;
+    text-transform: uppercase;
+    border:  solid ;
+    margin-top:50px ;
+    width: 350px;
+    padding:30px;
+    margin-left: 100px;
+    font-weight:bold;
+    color: black;
+}
+ a{
+    text-decoration: none;
+    padding-left:26px;
+    color: white;
+    padding-right: 10px;
+    color: black;
+   
+}
+.e{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    background-color: white;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    left: 0;
+    z-index: 10;
+}
+h5{
+    font-size: 25px;
+    text-shadow: 300px;
+    font-weight: 100px;
+    color: white;
+}
+
+.r{
+    border: 5px solid black transparent;
+    background-color: white;
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 450px;
+    padding: 40px;
+}
+.r h2{
+    color: black;
+    font-size: 45px;
+}
+
+.m{
+    display:flex;
+    position: relative;
+    margin: 50px;
+  
+}
